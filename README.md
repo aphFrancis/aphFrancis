@@ -101,7 +101,7 @@ I have too much beloved online children, but they are all precious to me. I love
 
 <div align="center">
 
-## 🇫🇷🇬🇧 : Francis & Arthur . . .
+## 🇫🇷🇬🇧 : Me and My Husband
 
 <img width="1600" height="842" alt="image" src="https://github.com/user-attachments/assets/b8592c9e-7ee4-45bc-b331-89276fe6bb7f" />
 
