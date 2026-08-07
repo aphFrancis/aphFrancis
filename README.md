@@ -133,3 +133,47 @@ I have too much beloved online children, but they are all precious to me. I love
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=realchemicalengineer.realchemicalengineer&left_color=1a0010&right_color=C9A84C&left_text=visiteurs)
 
 </div>
+
+<div align="center">
+
+## Gallery
+
+<table>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/0f74f2ac-675d-4653-a46d-3a34f175e5d9" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/204f7b7e-e9bf-47bd-87ac-5b3f3ef5522b" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/84e5a545-d2ed-438a-b791-68b152fab839" /></td>
+</tr>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/d02a37e9-57bf-4021-b7eb-03cfa4ddfb09" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/5a1a86a0-0f3f-447e-b4af-ef10b0689ab7" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/d6d32ffa-c2c3-4e04-bc77-670345b88046" /></td>
+</tr>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/51260c15-3608-4463-9fe2-c32f57715b76" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/7894c420-f5f5-4f04-a03c-54a510b8eaf0" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/5a6b1a3f-a2c4-4d14-8da2-eae2204d4706" /></td>
+</tr>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/40f7ed09-0337-49bd-826f-b8b7a0d6d8ed" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/18519daf-2e91-4abd-83f8-b3624cc12406" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/3fbf7fc6-8036-4d24-a1dd-b6386f1e2f4d" /></td>
+</tr>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/998fe66b-fc9e-4689-a4a6-93c1894b9a95" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/d387bc16-af80-412c-a8d1-9ca3174c429b" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/2317ef41-9894-4a38-bef8-72a22b2fb706" /></td>
+</tr>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/e9a12102-a4bf-4ac4-acef-fa16394495e3" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/07ba9ef0-b69e-4138-87c3-26e2137cc024" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/d066ab89-e5a1-42cb-bc10-976597808426" /></td>
+</tr>
+<tr>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/7c7a559d-f8c0-4b68-bd96-0d49497f9956" /></td>
+<td><img width="300" alt="image" src="https://github.com/user-attachments/assets/65da6f30-d773-427f-8853-a9e412e38d52" /></td>
+<td></td>
+</tr>
+</table>
+
+</div>
