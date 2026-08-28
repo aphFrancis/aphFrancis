@@ -42,7 +42,8 @@ $$\textcolor{#C9A84C}{\boldsymbol{\text{✦ · · · INTERACT · · · ✦}}}$$
 
 I accept most ships as long as they're written with care and respect. *After all, love takes many forms —* and who am I to deny any of them?
 
----
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/836e1957-aef0-4acf-895a-aa0548554195" />
+
 
 <div align="center">
 
@@ -52,7 +53,7 @@ I accept most ships as long as they're written with care and respect. *After all
 
 </div>
 
----
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/ad239df2-d27a-4b76-b845-019e5dbe4176" />
 
 ## 🌹 : À PROPOS DE MOI
 
@@ -72,7 +73,7 @@ I have too much beloved online children, but they are all precious to me. I love
 
 > *" The art of living is the finest art of all. "* — Francis Bonnefoy
 
----
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/840ca9c4-16a7-4100-9920-405d675c9c74" />
 
 <div align="center">
 
@@ -83,7 +84,7 @@ I have too much beloved online children, but they are all precious to me. I love
 
 </div>
 
----
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/a3657cbd-772e-44cc-a49e-b1590fb30a0e" />
 
 ## 🍷 : MES INTÉRÊTS
 
@@ -97,7 +98,7 @@ I have too much beloved online children, but they are all precious to me. I love
 
 | 🌹 | Hetalia & Countryhumans — mon cœur est là |
 
----
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/075fa71f-fbf0-4881-b126-7bd8f740cf1d" />
 
 <div align="center">
 
@@ -108,7 +109,7 @@ I have too much beloved online children, but they are all precious to me. I love
 *" Arthur, mon amour — stop frowning, it gives you wrinkles. "*
 </div>
 
----
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/2338249a-b994-4246-862f-3f4a33ed7a89" />
 
 <div align="center">
 
